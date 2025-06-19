@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowDuper/better/refs/heads/main/gsa"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BenGrowScript/PetDuper/refs/heads/main/bengrowhub"))()
